@@ -105,7 +105,7 @@ int main(void)
 	{
 		glfwGetCursorPos(window, &xPos, &yPos);		
 	
-		printf("xÁÂÇ¥ :%f y ÁÂÇ¥ :%f", xPos, yPos);
+		
 		/* Render here */
 		glClear(GL_COLOR_BUFFER_BIT);
 
