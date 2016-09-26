@@ -89,7 +89,7 @@ int main(void)
 		return -1;
 
 	/* Create a windowed mode window and its OpenGL context */
-	window = glfwCreateWindow(width, height, "Hello World", NULL, NULL);
+	window = glfwCreateWindow(width, height, "2016112129 Taegun", NULL, NULL);
 	if (!window)
 	{
 		glfwTerminate();
